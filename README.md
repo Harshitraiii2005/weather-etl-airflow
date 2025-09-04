@@ -147,11 +147,7 @@ CREATE TABLE IF NOT EXISTS weather_data (
 <img width="1366" height="685" alt="DBeaver 25 2 0 - weather_data 9_4_2025 11_09_03 PM" src="https://github.com/user-attachments/assets/99f5817f-961b-43fe-a2d5-04649edff466" />
 
 
-## 🎥 Demo GIF
 
-*(Insert screen-recorded GIF of Airflow DAG run here)*
-
----
 
 ## 🔍 Queries in PostgreSQL
 
